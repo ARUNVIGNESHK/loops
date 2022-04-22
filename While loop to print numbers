@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main(){
+int X;
+X=1;
+while(X<=10)
+{
+    printf("%d\n",X);
+    X++;
+}
+return 0;
+}
